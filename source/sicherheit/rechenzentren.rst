@@ -5,7 +5,7 @@ Berlin
 ------
 
 Betreiber
- `Speedbone <http://www.speedbone.de/datacenter.html>`_
+ `Speedbone <https://speedbone.de/colocation/rechenzentrum-berlin.html>`_
 Ort
  Berlin
 
